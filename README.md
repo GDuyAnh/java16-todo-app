@@ -1,2 +1,3 @@
 # java16-todo-app
-Demo For Java 16 Todo App
+TODO-APP-2.0 SNAPSHOT
+
